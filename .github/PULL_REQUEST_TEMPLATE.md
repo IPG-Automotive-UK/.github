@@ -6,6 +6,7 @@ Contributes to TD-???
 ## Changes
 
 <!-- Let the review know the high-level and detailed changes to look out for -->
+<!-- For a bug, this section could instead be Bug description & Resolution -->
 
 A brief description of what this pull request solves / introduces.
 
@@ -19,11 +20,6 @@ Maybe a short description of what is not included and will come in future work w
 
 <!-- Does this branch need to be tested alongside branches from other apps? -->
 <!-- Does this branch need to be merged after another Pull Request? -->
-
-You will need the test alongside:
-
-- [Branch name](/link/to/branch)
-- Something else
 
 ## UI/UX
 
@@ -39,5 +35,5 @@ You will need the test alongside:
 - [ ] Reviewed my own code-diff.
 - [ ] Assigned to me.
 - [ ] Relevant tags added.
-- [ ] Appripriate tests have been added.
-- [ ] Lint and test pass before requesting a review.
+- [ ] Appropriate tests have been added.
+- [ ] Lint and test workflows pass.
