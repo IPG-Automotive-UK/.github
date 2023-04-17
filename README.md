@@ -1,1 +1,1 @@
-# IPG Automotive UK Limited.
+# IPG Automotive UK Limited
