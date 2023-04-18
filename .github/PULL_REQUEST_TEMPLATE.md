@@ -5,8 +5,8 @@ Contributes to TD-???
 
 ## Changes
 
-<!-- Let the review know the high-level and detailed changes to look out for -->
-<!-- For a bug, this section could instead be Bug description & Resolution -->
+<!-- Let the reviewer know the high-level and detailed changes to look out for -->
+<!-- For a bug, this section could instead be bug description & resolution -->
 
 A brief description of what this pull request solves / introduces.
 
@@ -28,9 +28,9 @@ Maybe a short description of what is not included and will come in future work w
 
 ## Testing notes
 
-<!-- Help the review test your feature with some specific suggest steps, point them towards test data, provide scripts / postman configs etc. -->
+<!-- Help the reviewer test your feature with some specific steps, point them towards test data and provide scripts or postman configs etc. -->
 
-## Author checklist
+## Author checklist before assigning a reviewer
 
 - [ ] Reviewed my own code-diff.
 - [ ] Assigned to me.
