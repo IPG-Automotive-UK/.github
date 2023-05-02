@@ -33,6 +33,7 @@ Maybe a short description of what is not included and will come in future work w
 ## Author checklist before assigning a reviewer
 
 - [ ] Reviewed my own code-diff.
+- [ ] Branch has been run in docker.
 - [ ] Assigned to me.
 - [ ] Relevant tags added.
 - [ ] Appropriate tests have been added.
