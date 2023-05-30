@@ -34,7 +34,7 @@ Maybe a short description of what is not included and will come in future work w
 
 - [ ] Reviewed my own code-diff.
 - [ ] Branch has been run in docker.
-- [ ] Assigned to me.
-- [ ] Relevant tags added.
+- [ ] PR assigned to me or an appropriate delegate.
+- [ ] Relevant labels added to the PR.
 - [ ] Appropriate tests have been added.
 - [ ] Lint and test workflows pass.
