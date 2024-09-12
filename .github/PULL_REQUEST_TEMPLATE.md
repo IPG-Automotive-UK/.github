@@ -32,7 +32,7 @@ Maybe a short description of what is not included and will come in future work w
 
 ## Author checklist
 
-Before I requested a review:
+Before I request a review:
 
 <!-- Strikethrough any items that are not relevant to this PR -->
 
