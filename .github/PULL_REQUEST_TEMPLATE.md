@@ -1,7 +1,7 @@
-<!-- Insert YouTrack link if relevant -->
+<!-- Insert YouTrack link if relevant. This should be a clickable link -->
+<!-- Pick relevant action word --->
 
-Closes TD-??
-Contributes to TD-???
+Closes/Contributes [TD-??]()
 
 ## Changes
 
@@ -30,11 +30,16 @@ Maybe a short description of what is not included and will come in future work w
 
 <!-- Help the reviewer test your feature with some specific steps, point them towards test data and provide scripts or postman configs etc. -->
 
-## Author checklist before assigning a reviewer
+## Author checklist
 
-- [ ] Reviewed my own code-diff.
-- [ ] Branch has been run in docker.
-- [ ] PR assigned to me or an appropriate delegate.
-- [ ] Relevant labels added to the PR.
-- [ ] Appropriate tests have been added.
-- [ ] Lint and test workflows pass.
+Before I request a review:
+
+<!-- Strikethrough any items that are not relevant to this PR -->
+
+- [ ] I have reviewed my own code-diff.
+- [ ] I have tested the changes in Docker / a deploy-preview.
+- [ ] I have assigned the PR to myself or an appropriate delegate.
+- [ ] I have added the relevant labels to the PR.
+- [ ] I have included appropriate tests.
+- [ ] I have checked that the Lint and Test workflows pass on Github.
+- [ ] I have populated the deploy-preview with relevant test data.
